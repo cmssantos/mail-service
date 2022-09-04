@@ -1,2 +1,1 @@
-# mail-service
-MailService
+# Send Emails with ASP.NET Core
